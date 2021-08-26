@@ -1,0 +1,36 @@
+.container {
+    background-image: url(https://ak.picdn.net/shutterstock/videos/8799457/thumb/1.jpg);
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+th {
+    font-size: 50px;
+}
+td {
+    height: 50px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: gray;
+}
+table {
+    padding-right: 20px;
+    color: white;
+}
+.borderbottom {
+    border-bottom: 1px solid;
+}
+.align{
+    vertical-align: top;
+}
+.align1{
+    vertical-align: bottom;
+}
+em {
+    padding-left: 20px;
+    font-size: x-large;
+}
